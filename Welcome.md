@@ -23,3 +23,5 @@ A note[^1]
 
 * [ ] to do
 * [x] done
+
+ok
