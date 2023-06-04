@@ -23,5 +23,3 @@ A note[^1]
 
 * [ ] to do
 * [x] done
-
-<!-- ![alt text](https://static.nationalgeographic.fr/files/styles/image_3200/public/koalas-australia-001.jpg?w=1600) -->
