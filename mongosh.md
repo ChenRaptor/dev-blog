@@ -1,4 +1,4 @@
-# Tutoriel de prise en main de Mongosh
+# Tutoriel de prise en main de Mongosh87
 ## Introduction:
 Mongosh est un shell interactif puissant pour MongoDB qui offre une expérience de développement améliorée. Dans ce tutoriel, nous vous guiderons à travers les étapes pour prendre en main Mongosh en utilisant uniquement la ligne de commande. Vous apprendrez comment installer Mongosh, vous connecter à votre base de données MongoDB et effectuer des opérations courantes en utilisant les commandes CLI.
 
